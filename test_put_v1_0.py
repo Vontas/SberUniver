@@ -1,7 +1,5 @@
 import pytest
 import requests
-import pytest
-import requests
                                                           #СОЗДАЮ POST ЗАПРОС
 def test_post_positive():
     url = "https://petstore.swagger.io/v2/pet"
